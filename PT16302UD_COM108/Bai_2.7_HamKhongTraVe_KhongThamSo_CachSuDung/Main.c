@@ -17,9 +17,12 @@ void tinhTongHaiSo()
 int main()
 {
 	/*
-	 * 1. Hàm giúp bảo trì code dễ hơn
-	 * 2. Tái sử dụng
-	 * 3. Đặt tên hàm với động từ đứng trước và sử dụng kiểu Camel Case
+	 * Lưu ý:
+	 * 1. Đặt tên hàm phải có động từ đứng trước và sử dụng kiểu CamelCase
+	 * 2. Hàm giúp quản lý code dễ hơn
+	 * 3. Hàm giúp tái sử dụng trong lập trình
+	 * 4. Mỗi một hàm có nhiệm vụ thực hiện 1 hành động nào đó.
+	 * 5. Giúp bảo trì code về sau dễ hơn.
 	 */
 
 	//Cách gọi hàm:

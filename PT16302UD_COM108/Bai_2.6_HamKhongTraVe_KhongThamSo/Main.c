@@ -27,6 +27,7 @@ void chuNang2()
 }
 void menu()
 {	
+	
 	printf("****** Chuong Trinh May Tinh POLY ****** \n");
 	printf("****** 1. Phep Cong 2 So          ****** \n");
 	printf("****** 2. Phep Nhan 2 So          ****** \n");

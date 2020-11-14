@@ -29,7 +29,12 @@ void xepHang(float diemGPA_C)
 }
 int main()
 {
-	//Gọi hàm có tham số phải truyền đủ giá trị vào nếu không sẽ lỗi
+	/*
+	 *	Lưu ý: Gọi hàm có tham số truyền vào
+		1. Phải truyền đầy đủ các tham số theo vị trí đúng
+		2. Không thể không truyền tham số vì sẽ gây lỗi
+		3. Có thể sử dụng nhiều kiểu dữ liệu kết hợp trong tham số.
+	 */
 	//tinhTongHaiSo(5, 5);
 	xepHang(4.9);
 
